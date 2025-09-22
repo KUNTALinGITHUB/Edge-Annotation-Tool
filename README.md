@@ -4,6 +4,7 @@ A lightweight **Tkinter-based polygon annotation tool** for computer vision proj
 It allows you to label objects with polygons and automatically saves them in **YOLO-Seg format** (`.txt`) and **JSON format**.
 
 ---
+<img width="1355" height="768" alt="Capture" src="https://github.com/user-attachments/assets/3facc7ab-822a-4d72-95c6-d6f1992a02e1" />
 
 ## ✨ Features
 
@@ -26,7 +27,7 @@ It allows you to label objects with polygons and automatically saves them in **Y
    ```bash
    git clone https://github.com/KUNTALinGITHUB/Edge-Annotation-Tool.git
    cd Edge-Annotation-Tool
-   <img width="1355" height="768" alt="Capture" src="https://github.com/user-attachments/assets/3facc7ab-822a-4d72-95c6-d6f1992a02e1" />
+   
 
 2. Install dependencies:
 
